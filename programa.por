@@ -4,6 +4,7 @@ programa
 	funcao inicio()
 	{
 		escreva("Olá Angola!!!")
+		escreva("Do remoto para o local")
 	}
 }
 /* $$$ Portugol Studio $$$ 
